@@ -13,7 +13,7 @@
 | user_name | 是   | String | 作者签名                        |
 | type      | 是   | String | 请求标识：all：全量、last：增量 |
 
-请求示例：<a href="http://wx.eatan96.cn?user_name=v2_060000231003b20faec8c6e18e1dc5d3c90dea35b077c8b2db313047271f29519a11abfb848c@finder&type=last" target="_blank"></a>
+请求示例：<a href="http://wx.eatan96.cn?user_name=v2_060000231003b20faec8c6e18e1dc5d3c90dea35b077c8b2db313047271f29519a11abfb848c@finder&type=last" target="_blank">http://wx.eatan96.cn?user_name=v2_060000231003b20faec8c6e18e1dc5d3c90dea35b077c8b2db313047271f29519a11abfb848c@finder&type=last</a>
 
 ------
 
