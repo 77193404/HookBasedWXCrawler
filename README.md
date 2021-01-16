@@ -8,7 +8,7 @@ version：7.0.21
 
 测试地址：wx.eatan96.cn
 
-### 0x01作品列表接口
+### 0x01：作品列表接口
 
 请求方式：HTTP / POST
 
@@ -19,7 +19,7 @@ version：7.0.21
 
 请求示例：http://wx.eatan96.cn?user_name=v2_060000231003b20faec8c6e18e1dc5d3c90dea35b077c8b2db313047271f29519a11abfb848c@finder&type=last
 
-### 0x02推荐页接口
+### 0x02：推荐页接口
 
 请求方式：HTTP / POST
 
